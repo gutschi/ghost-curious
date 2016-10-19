@@ -1,2 +1,3 @@
-# ghost-curious
-Curious template for ghost
+# Customized template for Sedat & Vedat company
+
+* First draft on github
