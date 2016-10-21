@@ -1427,7 +1427,7 @@ pre .storage {
 	height: 100vh;
 	margin-bottom: 60px;
 	position: relative;
-	width: 50%;
+	max-width: 500px;
 }
 
 .cover.hero {
